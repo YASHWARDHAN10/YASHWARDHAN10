@@ -1,9 +1,9 @@
-- 🙏🏻Hi, I’m @YASHWARDHAN10
+- Hi, I’m @YASHWARDHAN10
 - 👀 I’m interested in Cars and Bikes, 
 but now trying to shift the same enthusiasm
 Towards Programming
 
-- 🌱 I’m currently learning c++ in my btech course
+- 🌱 I’m currently learning python, java, c++, javascript
 - I’m looking to collaborate on ...
 - 📫 How to reach me on my
  email: yashwardhanbhosale27@gmail.com
